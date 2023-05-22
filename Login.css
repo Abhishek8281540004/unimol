@@ -1,0 +1,48 @@
+.h{
+    text-align: center;
+    margin-top: 60px;
+}
+.log{
+    background-color: aqua;
+    height: 400px;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.he{
+   text-align: center;
+   padding-top: 30px;
+
+}
+.inp{
+    text-align: center;
+   margin-left: 110px;
+   margin-top: 10px;
+   border: none;
+   border-bottom: solid gray 1px;
+   width: 280px;
+   height: 30px;
+   border-radius: 8px;
+}
+.btnn{
+    margin-left: 200px;
+    background-color: rgb(29, 204, 67);
+    margin-top: 20px;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}
+.main{
+    display: flex;
+    margin-top: 50px;
+}
+.img{
+    width: 400px;
+    margin-left: 60px;
+}
+.img1{
+    width: 350px;
+    margin-left: 60px;
+}
+
